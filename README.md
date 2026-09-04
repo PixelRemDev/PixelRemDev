@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="[./rem-banner-re-zero-rem.gif" alt="Rem banner](https://media1.tenor.com/m/t-6Cv0YmP8QAAAAd/rem-banner-re-zero-rem.gif)" width="800">
+<img src="https://media1.tenor.com/m/t-6Cv0YmP8QAAAAd/rem-banner-re-zero-rem.gif" width="800">
 
 # Hey! 👋
 
