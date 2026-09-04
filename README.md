@@ -1,16 +1,20 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**PixelRemDev/PixelRemDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="./rem-banner-re-zero-rem.gif" alt="Rem banner" width="800">
 
-Here are some ideas to get you started:
+# Hey! 👋
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a college student who enjoys **learning, experimenting, and coding cool stuff**.
+
+I like taking ideas that sound interesting, figuring out how they work, and then building them myself — whether that's a small experiment or a project that gets way more complicated than it was supposed to. :')
+
+### 🛠️ Currently learning & building
+
+- 💻 C / C++
+- 🌐 Networking & sockets
+- 🧩 Data structures & algorithms
+- 🛠️ Random side projects and experiments
+
+> **Learning by building, one questionable project at a time.**
+
+</div>
