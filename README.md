@@ -10,10 +10,10 @@ I like taking ideas that sound interesting, figuring out how they work, and then
 
 ### 🛠️ Currently learning & building
 
-- 💻 C / C++
-- 🌐 Networking & sockets
-- 🧩 Data structures & algorithms
-- 🛠️ Random side projects and experiments
+-  C / C++ / Python
+-  Networking & sockets
+-  Data structures & algorithms
+-  Random side projects and experiments
 
 > **Learning by building, one questionable project at a time.**
 
